@@ -1,0 +1,109 @@
+id,slug,section_en,section_ar,name_ar,transliteration,name_en,price_aed,image,image_status
+1,fransisco,Jusrain Special Paratha,بَراتا جوسرين الخاصة,فرانسيسكو,Fransisco,Francisco paratha roll,7.00,,needs_generation
+2,keema,Jusrain Special Paratha,بَراتا جوسرين الخاصة,كيما,Keema,Minced meat paratha,4.50,,needs_generation
+3,baid-wa-jibna,Jusrain Special Paratha,بَراتا جوسرين الخاصة,بيض وجبنة,Baid wa Jibna,Egg and cheese paratha,4.50,,needs_generation
+4,jibna,Jusrain Special Paratha,بَراتا جوسرين الخاصة,جبنة,Jibna,Cheese paratha,3.00,,needs_generation
+5,baid,Jusrain Special Paratha,بَراتا جوسرين الخاصة,بيض,Baid,Egg paratha,4.00,,needs_generation
+6,oman-chips-jibna,Jusrain Special Paratha,بَراتا جوسرين الخاصة,أومان شيبس جبنة,Oman Chips Jibna,Oman chips and cheese paratha,4.00,,needs_generation
+7,baid-chips-oman-jibna,Jusrain Special Paratha,بَراتا جوسرين الخاصة,بيض شيبس أومان جبنة,Baid Chips Oman Jibna,"Egg, Oman chips and cheese paratha",5.50,,needs_generation
+8,lahm-baqari,Jusrain Special Paratha,بَراتا جوسرين الخاصة,لحم بقري,Lahm Baqari,Beef paratha,6.00,,needs_generation
+9,dajaj-chilli,Jusrain Special Paratha,بَراتا جوسرين الخاصة,دجاج تشيلي,Dajaj Chilli,Chilli chicken paratha,6.00,,needs_generation
+10,dajaj,Jusrain Special Paratha,بَراتا جوسرين الخاصة,دجاج,Dajaj,Chicken paratha,5.50,,needs_generation
+11,nutella,Jusrain Special Paratha,بَراتا جوسرين الخاصة,نوتيلا,Nutella,Nutella paratha,4.00,,needs_generation
+12,asal,Jusrain Special Paratha,بَراتا جوسرين الخاصة,عسل,Asal,Honey paratha,4.00,,needs_generation
+13,shakshuka,Jusrain Special Paratha,بَراتا جوسرين الخاصة,شكشوكة,Shakshuka,Shakshuka paratha,5.00,,needs_generation
+14,shakshuka-jibna,Jusrain Special Paratha,بَراتا جوسرين الخاصة,شكشوكة جبنة,Shakshuka Jibna,Shakshuka and cheese paratha,6.00,,needs_generation
+15,shai-karak,Hot Drinks,المشروبات الساخنة,شاي كرك,Shai Karak,Karak tea,1.50 / 3.00,menu/images/from_pdf/shai-karak.jpg,from_brochure
+16,shai-haleeb-tazij,Hot Drinks,المشروبات الساخنة,شاي حليب طازج,Shai Haleeb Tazij,Fresh milk tea,2.50 / 5.00,,needs_generation
+17,shai-aswad,Hot Drinks,المشروبات الساخنة,شاي أسود,Shai Aswad,Black tea,1.50 / 3.00,,needs_generation
+18,shai-akhdar,Hot Drinks,المشروبات الساخنة,شاي أخضر,Shai Akhdar,Green tea,1.50 / 3.00,,needs_generation
+19,qahwa,Hot Drinks,المشروبات الساخنة,قهوة,Qahwa,Coffee,2.50 / 5.00,,needs_generation
+20,shai-zaatar,Hot Drinks,المشروبات الساخنة,شاي زعتر,Shai Zaatar,Thyme tea,3 / 6.00,,needs_generation
+21,shai-zaafaran,Hot Drinks,المشروبات الساخنة,شاي زعفران,Shai Zaafaran,Saffron tea,3.50 / 7.00,,needs_generation
+22,shorbat-makoolat-bahriya,Special Soups,الشوربات الخاصة,شوربة مأكولات بحرية,Shorbat Makoolat Bahriya,Seafood soup,10.00,,needs_generation
+23,shorbat-kareemat-fitr,Special Soups,الشوربات الخاصة,شوربة كريمة فطر,Shorbat Kareemat Fitr,Cream of mushroom soup,10.00,,needs_generation
+24,shorbat-kareemat-dajaj,Special Soups,الشوربات الخاصة,شوربة كريمة دجاج,Shorbat Kareemat Dajaj,Cream of chicken soup,10.00,,needs_generation
+25,shorbat-dajaj-wa-fitr,Special Soups,الشوربات الخاصة,شوربة دجاج وفطر,Shorbat Dajaj wa Fitr,Chicken and mushroom soup,10.00,,needs_generation
+26,shorbat-dajaj-harra-wa-hamda,Special Soups,الشوربات الخاصة,شوربة دجاج حارة وحامضة,Shorbat Dajaj Harra wa Hamda,Hot and sour chicken soup,10.00,,needs_generation
+27,shorbat-lahm-ghanam-harra-wa-hamda,Special Soups,الشوربات الخاصة,شوربة لحم غنم حارة وحامضة,Shorbat Lahm Ghanam Harra wa Hamda,Hot and sour mutton soup,10.00,,needs_generation
+28,shorbat-tamatim,Special Soups,الشوربات الخاصة,شوربة طماطم,Shorbat Tamatim,Tomato soup,10.00,,needs_generation
+29,shorbat-naanaa-akhdar,Special Soups,الشوربات الخاصة,شوربة نعناع أخضر,Shorbat Naanaa Akhdar,Green mint soup,10.00,,needs_generation
+30,shorbat-kareemat-khudar,Special Soups,الشوربات الخاصة,شوربة كريمة خضار,Shorbat Kareemat Khudar,Cream of vegetable soup,10.00,,needs_generation
+31,shorbat-thura-hilwa-bil-khudar,Special Soups,الشوربات الخاصة,شوربة ذرة حلوة بالخضار,Shorbat Thura Hilwa bil Khudar,Sweet corn and vegetable soup,10.00,,needs_generation
+32,shorbat-manchow-khudar,Special Soups,الشوربات الخاصة,شوربة مانشاو خضار,Shorbat Manchow Khudar,Vegetable manchow soup,10.00,,needs_generation
+33,aruz-abyad,Rice Dishes,أطباق الأرز,أرز أبيض,Aruz Abyad,Plain white rice,6.00,menu/images/from_pdf/aruz-abyad.jpg,from_brochure
+34,aruz-biryani,Rice Dishes,أطباق الأرز,أرز برياني,Aruz Biryani,Biryani rice,6.00,,needs_generation
+35,aruz-pulao,Rice Dishes,أطباق الأرز,أرز بلاو,Aruz Pulao,Pulao rice,7.00,,needs_generation
+36,wajbat-mota,Rice Combo Meals,وجبات الأرز الكومبو,وجبة موتا,Wajbat Mota,Mota combo meal,10.00,,needs_generation
+37,wajbat-bareek,Rice Combo Meals,وجبات الأرز الكومبو,وجبة باريك,Wajbat Bareek,Bareek combo meal,10.00,,needs_generation
+38,roti,Bread,الخبز,روتي,Roti,Roti,1.50,,needs_generation
+39,paratha,Bread,الخبز,براتا,Paratha,Paratha,1.50,,needs_generation
+40,chapati,Bread,الخبز,شاباتي,Chapati,Chapati,1.50,,needs_generation
+41,biryani-dajaj,Jusrain Special Biryani,برياني جوسرين الخاص,برياني دجاج,Biryani Dajaj,Chicken biryani,13.00,,needs_generation
+42,nusf-biryani-dajaj,Jusrain Special Biryani,برياني جوسرين الخاص,نصف برياني دجاج,Nusf Biryani Dajaj,Half chicken biryani,20.00,,needs_generation
+43,biryani-dajaj-dum,Jusrain Special Biryani,برياني جوسرين الخاص,برياني دجاج دم,Biryani Dajaj Dum,Chicken dum biryani,14.00,,needs_generation
+44,nusf-biryani-dajaj-dum,Jusrain Special Biryani,برياني جوسرين الخاص,نصف برياني دجاج دوم,Nusf Biryani Dajaj Dum,Half chicken dum biryani,22.00,,needs_generation
+45,biryani-lahm-baqari,Jusrain Special Biryani,برياني جوسرين الخاص,برياني لحم بقري,Biryani Lahm Baqari,Beef biryani,16.00,,needs_generation
+46,biryani-baid,Jusrain Special Biryani,برياني جوسرين الخاص,برياني بيض,Biryani Baid,Egg biryani,12.00,,needs_generation
+47,biryani-khudar,Jusrain Special Biryani,برياني جوسرين الخاص,برياني خضار,Biryani Khudar,Vegetable biryani,12.00,,needs_generation
+48,biryani-dajaj-65,Jusrain Special Biryani,برياني جوسرين الخاص,برياني دجاج 65,Biryani Dajaj 65,Chicken 65 biryani,25.00,,needs_generation
+49,biryani-lahm-ghanam-namkeen,Jusrain Special Biryani,برياني جوسرين الخاص,برياني لحم غنم نمكين,Biryani Lahm Ghanam Namkeen,Namkeen mutton biryani,25.00,,needs_generation
+50,biryani-al-fahm-kamil,Jusrain Special Biryani,برياني جوسرين الخاص,برياني الفحم كامل,Biryani al-Fahm Kamil,Full charcoal biryani,50.00,menu/images/from_pdf/biryani-al-fahm-kamil.jpg,from_brochure
+51,nusf-biryani-bil-fahm,Jusrain Special Biryani,برياني جوسرين الخاص,نصف برياني بالفحم,Nusf Biryani bil Fahm,Half charcoal biryani,25.00,,needs_generation
+52,biryani-hyderabadi,Jusrain Special Biryani,برياني جوسرين الخاص,برياني حيدرآبادي,Biryani Hyderabadi,Hyderabadi biryani,14.00,,needs_generation
+53,biryani-samak,Jusrain Special Biryani,برياني جوسرين الخاص,برياني سمك,Biryani Samak,Fish biryani,SEASONAL,,needs_generation
+54,biryani-lahm-ghanam,Jusrain Special Biryani,برياني جوسرين الخاص,برياني لحم غنم,Biryani Lahm Ghanam,Mutton biryani,19.00,,needs_generation
+55,lahm-baqari-maqli,Special Beef Dishes,أطباق اللحم البقري الخاصة,لحم بقري مقلي,Lahm Baqari Maqli,Beef fry,13.00,menu/images/from_pdf/lahm-baqari-maqli.jpg,from_brochure
+56,lahm-baqari-masala,Special Beef Dishes,أطباق اللحم البقري الخاصة,لحم بقري ماسالا,Lahm Baqari Masala,Beef masala,13.00,,needs_generation
+57,lahm-baqari-roast,Special Beef Dishes,أطباق اللحم البقري الخاصة,لحم بقري روست,Lahm Baqari Roast,Beef roast,20.00,,needs_generation
+58,kadai-lahm-baqari,Special Mutton Dishes,أطباق لحم الغنم الخاصة,كاداي لحم بقري,Kadai Lahm Baqari,Beef kadai,16.00,,needs_generation
+59,lahm-ghanam-namkeen,Special Mutton Dishes,أطباق لحم الغنم الخاصة,لحم غنم نمكين,Lahm Ghanam Namkeen,Namkeen mutton,23.00,,needs_generation
+60,kadai-lahm-ghanam,Special Mutton Dishes,أطباق لحم الغنم الخاصة,كاداي لحم غنم,Kadai Lahm Ghanam,Mutton kadai,17.00,,needs_generation
+61,lahm-ghanam-masala,Special Mutton Dishes,أطباق لحم الغنم الخاصة,لحم غنم ماسالا,Lahm Ghanam Masala,Mutton masala,14.00,,needs_generation
+62,lahm-ghanam-roast,Special Mutton Dishes,أطباق لحم الغنم الخاصة,لحم غنم روست,Lahm Ghanam Roast,Mutton roast,20.00,,needs_generation
+63,kabdat-ghanam,Special Mutton Dishes,أطباق لحم الغنم الخاصة,كبدة غنم,Kabdat Ghanam,Mutton liver,13.00,,needs_generation
+64,lahm-ghanam-bil-bataties,Special Mutton Dishes,أطباق لحم الغنم الخاصة,لحم غنم بالبطاطس,Lahm Ghanam bil Bataties,Mutton with potato,17.00,,needs_generation
+65,lahm-ghanam-bil-adas,Special Mutton Dishes,أطباق لحم الغنم الخاصة,لحم غنم بالعدس,Lahm Ghanam bil Adas,Mutton with lentils,17.00,,needs_generation
+66,lahm-ghanam-bil-bamya,Special Mutton Dishes,أطباق لحم الغنم الخاصة,لحم غنم بالبامية,Lahm Ghanam bil Bamya,Mutton with okra,17.00,,needs_generation
+67,pulao-lahm-baqari,Jusrain Special Pulao and Kabsa,بلاو وكبسة جوسرين الخاصة,بلاو لحم بقري,Pulao Lahm Baqari,Beef pulao,17.00,,needs_generation
+68,pulao-dajaj,Jusrain Special Pulao and Kabsa,بلاو وكبسة جوسرين الخاصة,بلاو دجاج,Pulao Dajaj,Chicken pulao,14.00,,needs_generation
+69,pulao-lahm-ghanam-namkeen,Jusrain Special Pulao and Kabsa,بلاو وكبسة جوسرين الخاصة,بلاو لحم غنم نمكين,Pulao Lahm Ghanam Namkeen,Namkeen mutton pulao,25.00,,needs_generation
+70,pulao-lahm-ghanam,Jusrain Special Pulao and Kabsa,بلاو وكبسة جوسرين الخاصة,بلاو لحم غنم,Pulao Lahm Ghanam,Mutton pulao,20.00,,needs_generation
+71,dajaj-65,Special Chicken Dishes,أطباق الدجاج الخاصة,دجاج 65,Dajaj 65,Chicken 65,16.00 / 20.00 / 25.00,,needs_generation
+72,dajaj-chilli-sini,Special Chicken Dishes,أطباق الدجاج الخاصة,دجاج تشيلي صيني,Dajaj Chilli Sini,Chinese chilli chicken,16.00,,needs_generation
+73,dajaj-masala,Special Chicken Dishes,أطباق الدجاج الخاصة,دجاج ماسالا,Dajaj Masala,Chicken masala,12.00,,needs_generation
+74,sahn-fransisco,Special Chicken Dishes,أطباق الدجاج الخاصة,صحن فرانسيسكو,Sahn Fransisco,Francisco platter (regular),20.00,,needs_generation
+75,sahn-fransisco-kabeer,Special Chicken Dishes,أطباق الدجاج الخاصة,صحن فرانسيسكو كبير,Sahn Fransisco Kabeer,Francisco platter (large),30.00,,needs_generation
+76,dajaj-bil-zubda-kamil,Special Chicken Dishes,أطباق الدجاج الخاصة,دجاج بالزبدة كامل,Dajaj bil Zubda Kamil,Full butter chicken,20.00,,needs_generation
+77,nusf-dajaja-bil-zubda,Special Chicken Dishes,أطباق الدجاج الخاصة,نصف دجاجة بالزبدة,Nusf Dajaja bil Zubda,Half butter chicken,16.00,,needs_generation
+78,kadai-dajaj,Special Chicken Dishes,أطباق الدجاج الخاصة,كاداي دجاج,Kadai Dajaj,Chicken kadai,13.00,,needs_generation
+79,chicken-chukka,Special Chicken Dishes,أطباق الدجاج الخاصة,تشيكن تشوكا,Chicken Chukka,Chicken chukka,13.00,,needs_generation
+80,dajaj-chilli-special-chicken-dishes,Special Chicken Dishes,أطباق الدجاج الخاصة,دجاج تشيلي,Dajaj Chilli,Chilli chicken,13.00,,needs_generation
+81,fahm-filfil-akhdar-har,Special Charcoal Grills,أطباق الفحم الخاصة,فحم فلفل أخضر حار,Fahm Filfil Akhdar Har,Hot green pepper charcoal grill,16/22/40.00,,needs_generation
+82,fahm-eeri-boori,Special Charcoal Grills,أطباق الفحم الخاصة,فحم إيري بوري,Fahm Eeri Boori,Eeri Boori charcoal grill,16/22/40.00,,needs_generation
+83,shish-kabab-dajaj,Special Charcoal Grills,أطباق الفحم الخاصة,شيش كباب دجاج,Shish Kabab Dajaj,Chicken shish kebab,18.00,,needs_generation
+84,shish-kabab-lahm-ghanam,Special Charcoal Grills,أطباق الفحم الخاصة,شيش كباب لحم غنم,Shish Kabab Lahm Ghanam,Mutton shish kebab,20.00,,needs_generation
+85,fahm-filfil-aswad,Special Charcoal Grills,أطباق الفحم الخاصة,فحم فلفل أسود,Fahm Filfil Aswad,Black pepper charcoal grill,16/22/40.00,,needs_generation
+86,fahm-aadi,Special Charcoal Grills,أطباق الفحم الخاصة,فحم عادي,Fahm Aadi,Classic charcoal grill,16/22/40.00,menu/images/from_pdf/fahm-aadi.jpg,from_brochure
+87,tikka-dajaj,Special Charcoal Grills,أطباق الفحم الخاصة,تكا دجاج,Tikka Dajaj,Chicken tikka,18.00,,needs_generation
+88,malai-tikka,Special Charcoal Grills,أطباق الفحم الخاصة,ملاي تكا,Malai Tikka,Malai tikka,20.00,,needs_generation
+89,salatat-tikka-dajaj,Special Salads,السلطات الخاصة,سلطة تكا دجاج,Salatat Tikka Dajaj,Chicken tikka salad,12.00,,needs_generation
+90,salata-arabiya,Special Salads,السلطات الخاصة,سلطة عربية,Salata Arabiya,Arabic salad,10.00,,needs_generation
+91,salata-khadra,Special Salads,السلطات الخاصة,سلطة خضراء,Salata Khadra,Green salad,2/5/10.00,,needs_generation
+92,salata-arabiya-saghira,Special Salads,السلطات الخاصة,سلطة عربية (صغيرة),Salata Arabiya (Saghira),Arabic salad (small),5.00,,needs_generation
+93,shaari-maqli,Special Fish Dishes,أطباق السمك الخاصة,شعري مقلي,Shaari Maqli,Fried sheri (emperor fish),APS,,needs_generation
+94,rubyan-maqli,Special Fish Dishes,أطباق السمك الخاصة,روبيان مقلي,Rubyan Maqli,Fried prawns,20.00,,needs_generation
+95,hamour-fahm,Special Fish Dishes,أطباق السمك الخاصة,هامور فحم,Hamour Fahm,Charcoal-grilled hammour,APS,,needs_generation
+96,rubyan-masala,Special Fish Dishes,أطباق السمك الخاصة,روبيان ماسالا,Rubyan Masala,Prawn masala,20.00,,needs_generation
+97,samak-al-malik-maqli,Special Fish Dishes,أطباق السمك الخاصة,سمك الملك مقلي,Samak al-Malik Maqli,Fried king fish,APS,,needs_generation
+98,hamour-maqli,Special Fish Dishes,أطباق السمك الخاصة,هامور مقلي,Hamour Maqli,Fried hammour,APS,,needs_generation
+99,adas-chana,Special Breakfast Dishes,أطباق الفطور الخاصة,عدس شانا,Adas Chana,Lentil chana,6/8/12.00,,needs_generation
+100,baid-burji,Special Breakfast Dishes,أطباق الفطور الخاصة,بيض بورجي,Baid Burji,Egg burji,6/9/12.00,,needs_generation
+101,hummus-masala,Special Breakfast Dishes,أطباق الفطور الخاصة,حمص ماسالا,Hummus Masala,Chana masala,6/8/12.00,,needs_generation
+102,bamya,Special Breakfast Dishes,أطباق الفطور الخاصة,بامية,Bamya,Okra,6/8/12.00,,needs_generation
+103,dosa-set,Special Breakfast Dishes,أطباق الفطور الخاصة,دوسا سيت,Dosa Set,Dosa set,6.00,,needs_generation
+104,adas-maqli,Special Breakfast Dishes,أطباق الفطور الخاصة,عدس مقلي,Adas Maqli,Fried lentils,6/8/12.00,,needs_generation
+105,keema-special-breakfast-dishes,Special Breakfast Dishes,أطباق الفطور الخاصة,كيما,Keema,Keema,6/8/12.00,,needs_generation
+106,foul,Special Breakfast Dishes,أطباق الفطور الخاصة,فول,Foul,Foul,10.00,,needs_generation
+107,baid-roast,Special Breakfast Dishes,أطباق الفطور الخاصة,بيض روست,Baid Roast,Egg roast,6/9/12.00,,needs_generation
+108,bataties-bil-sabanikh,Special Breakfast Dishes,أطباق الفطور الخاصة,بطاطس بالسبانخ,Bataties bil Sabanikh,Potato with spinach,6/8/12.00,,needs_generation

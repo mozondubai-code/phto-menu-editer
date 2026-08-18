@@ -1,0 +1,116 @@
+[
+  {
+    "xref": 31,
+    "page": 1,
+    "slug": "marble-background",
+    "dish": "-",
+    "shipped": false,
+    "note": "page background texture, not a dish"
+  },
+  {
+    "xref": 48,
+    "page": 1,
+    "slug": "paratha-rolls-platter",
+    "dish": "بَراتا جوسرين الخاصة (section hero)",
+    "shipped": true,
+    "note": "stuffed paratha rolls on a board",
+    "source_px": "1200x1200",
+    "output_px": "2048x2048",
+    "file": "menu/images/from_pdf/paratha-rolls-platter.jpg"
+  },
+  {
+    "xref": 49,
+    "page": 1,
+    "slug": "aruz-abyad",
+    "dish": "أرز أبيض / Plain white rice",
+    "shipped": true,
+    "note": "white rice bowl",
+    "source_px": "549x587",
+    "output_px": "1915x2048",
+    "file": "menu/images/from_pdf/aruz-abyad.jpg"
+  },
+  {
+    "xref": 50,
+    "page": 1,
+    "slug": "rice-combo-thali",
+    "dish": "وجبات الأرز الكومبو",
+    "shipped": false,
+    "note": "carries a visible Shutterstock watermark — must be relicensed or reshot"
+  },
+  {
+    "xref": 51,
+    "page": 1,
+    "slug": "shai-karak",
+    "dish": "شاي كرك / Karak tea",
+    "shipped": true,
+    "note": "karak tea being poured",
+    "source_px": "1172x618",
+    "output_px": "2048x1080",
+    "file": "menu/images/from_pdf/shai-karak.jpg"
+  },
+  {
+    "xref": 52,
+    "page": 1,
+    "slug": "keeta-logo",
+    "dish": "-",
+    "shipped": false,
+    "note": "delivery partner logo"
+  },
+  {
+    "xref": 53,
+    "page": 1,
+    "slug": "whatsapp-qr",
+    "dish": "-",
+    "shipped": false,
+    "note": "WhatsApp QR code"
+  },
+  {
+    "xref": 55,
+    "page": 1,
+    "slug": "fahm-aadi",
+    "dish": "فحم عادي / Classic charcoal grill",
+    "shipped": true,
+    "note": "grilled chicken with fries — brochure cover",
+    "source_px": "1201x973",
+    "output_px": "2048x1659",
+    "file": "menu/images/from_pdf/fahm-aadi.jpg"
+  },
+  {
+    "xref": 57,
+    "page": 1,
+    "slug": "icon",
+    "dish": "-",
+    "shipped": false,
+    "note": "small UI icon"
+  },
+  {
+    "xref": 5,
+    "page": 2,
+    "slug": "sahn-fransisco",
+    "dish": "صحن فرانسيسكو",
+    "shipped": false,
+    "note": "carries a \"Pups with Chopsticks\" blog watermark — must be relicensed or reshot"
+  },
+  {
+    "xref": 6,
+    "page": 2,
+    "slug": "lahm-baqari-maqli",
+    "dish": "لحم بقري مقلي / Beef fry",
+    "shipped": true,
+    "note": "dark chilli-glazed beef strips",
+    "source_px": "1200x1800",
+    "output_px": "1365x2048",
+    "file": "menu/images/from_pdf/lahm-baqari-maqli.jpg"
+  },
+  {
+    "xref": 7,
+    "page": 2,
+    "slug": "biryani-al-fahm-kamil",
+    "dish": "برياني الفحم كامل / Full charcoal biryani",
+    "shipped": true,
+    "note": "whole roast chicken over biryani rice",
+    "source_px": "1200x1200",
+    "output_px": "2048x2048",
+    "file": "menu/images/from_pdf/biryani-al-fahm-kamil.jpg"
+  }
+]
