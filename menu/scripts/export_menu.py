@@ -46,13 +46,49 @@ SUBJECT_HINTS = {
     "Special Breakfast Dishes": "the breakfast dish in a small bowl with bread alongside",
 }
 
+# Plating read off the restaurant's own menu board (reference sheet #2) so the
+# generated tile matches how the kitchen actually serves the dish, not a generic
+# stock idea of it. Keyed by slug; overrides SUBJECT_HINTS.
+PLATING = {
+    # Charcoal grills
+    "fahm-filfil-akhdar-har": "a charcoal-grilled butterflied half chicken glazed green-chilli, with grilled tomato, salad leaves and a ramekin of sauce",
+    "fahm-eeri-boori": "charcoal-grilled chicken resting on saffron-yellow biryani rice, served on a dark wooden board",
+    "shish-kabab-dajaj": "a chicken shish kebab wrap in flatbread, cut open to show grilled chicken chunks and salad",
+    "shish-kabab-lahm-ghanam": "charred mutton kebab chunks on skewers with grilled onion, lemon and a red dipping sauce",
+    "fahm-filfil-aswad": "deeply charred black-pepper chicken pieces piled with golden fries and a sauce ramekin",
+    "tikka-dajaj": "red tandoori chicken quarters resting on a bed of rice",
+    "malai-tikka": "a creamy malai tikka wrap in flatbread with fries alongside",
+    # Salads
+    "salatat-tikka-dajaj": "diced cucumber and tomato salad with grilled chicken tikka, in a dark stoneware bowl",
+    "salata-arabiya": "Arabic salad with black olives and crumbled feta in a white bowl",
+    "salata-khadra": "finely chopped green salad, tabbouleh-fine, in a white bowl",
+    "salata-arabiya-saghira": "a small portion of Arabic salad with olives, in a white bowl",
+    # Fish
+    "shaari-maqli": "two grilled sheri fillets, charred edges, with lemon halves and parsley on a dark board",
+    "rubyan-maqli": "golden fried prawns fanned on a plate with a white garlic dip",
+    "hamour-fahm": "a whole charcoal-grilled hammour, blistered skin, lemon and herbs",
+    "rubyan-masala": "prawns in a thick red masala, garnished with coriander",
+    "samak-al-malik-maqli": "crisp golden fried king fish steaks with a ramekin of ketchup and herbs",
+    "hamour-maqli": "a whole fried hammour with lemon wedges and a fresh salad alongside",
+    # Breakfast
+    "adas-chana": "lentil chana curry topped with two sunny-side-up fried eggs and coriander",
+    "baid-burji": "a flat pan-set egg burji, browned at the edges, with fries alongside",
+    "hummus-masala": "chana masala in a white bowl with a pool of olive oil and whole olives",
+    "bamya": "okra stewed in tomato sauce, in a small dark bowl",
+    "adas-maqli": "fried brown lentils in tomato sauce with coriander, in a rustic bowl",
+    "keema-special-breakfast-dishes": "crumbly yellow keema with fries on the side",
+    "foul": "foul medames with whole beans and olive oil, in a white bowl",
+    "baid-roast": "egg roast in a spiced red masala, in a small bowl",
+    "bataties-bil-sabanikh": "potato and spinach in a glossy red sauce, in a dark bowl",
+}
+
 
 def slugify(text):
     return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
 
 
-def build_prompt(name_en, translit, name_ar, section_en):
-    subject = SUBJECT_HINTS.get(section_en, "the dish plated for a menu photo")
+def build_prompt(name_en, translit, name_ar, section_en, slug):
+    subject = PLATING.get(slug) or SUBJECT_HINTS.get(section_en, "the dish plated for a menu photo")
     return "\n".join([
         "Use case: food-menu photography",
         "Asset type: square menu tile, 1024x1024, for a printed and digital restaurant menu",
@@ -95,7 +131,7 @@ def main():
                 "price_aed": price,
                 "image": image,
                 "image_status": "from_brochure" if image else "needs_generation",
-                "image_prompt": build_prompt(name_en, translit, name_ar, section_en),
+                "image_prompt": build_prompt(name_en, translit, name_ar, section_en, slug),
             })
 
     payload = {"restaurant": RESTAURANT, "source": "JUSRAIN_TRIFOLD_Brocure_AR.pdf",
