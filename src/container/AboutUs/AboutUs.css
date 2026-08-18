@@ -1,0 +1,55 @@
+.aboutus-outer{
+  
+    height: 100%;
+    background-color:var(--color-black);
+    font-family: var(--font-base);
+   
+
+   
+   
+}
+
+
+.aboutus{
+    display: flex;
+    margin: 0 160px;
+   gap: 42px;
+   
+
+}
+.aboutus-content{
+    margin-top: 70px;
+   display: flex;
+   flex-direction: column;
+   gap: 5px;
+}
+
+
+.custom__button{
+    color: black;
+    background-color: white;
+    width: 130px;
+    
+}
+
+
+
+.aboutus-left {
+    align-items: end;
+
+}
+.aboutus-content h1 ,img, p{
+    color: white;
+}
+.aboutus-left p{
+    text-align: right;
+}
+.p__opensaans{
+    font-size: 20px;
+}
+.aboutus-content p{
+    margin: 45px 0;
+}
+.aboutus  .aboutus-left ,.aboutus-right {
+    margin-top: 110px;
+}

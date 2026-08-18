@@ -1,0 +1,60 @@
+.specialMenu {
+   
+    background: var(--color-black);
+    width: 100%;
+   
+    position: absolute;
+
+
+
+}
+
+.headtext{
+    color:  var(--color-white);
+    font-family: var(--font-base);
+    font-size: 45px
+    
+}
+
+.specialMenu-title {
+   margin-top: 142px;
+    text-align: center;
+}
+
+
+.specialMenu-menu{
+    display: flex;
+   
+}
+
+.wine-heading , .cocktail-heading {
+    font-family: var(--font-base);
+    font-weight: 600;
+    font-size: 29px;
+    line-height: 58.5px;
+    letter-spacing: 0.04em;
+    color: var(--color-white);
+    text-align: center;
+}
+
+.wine-list{
+    margin-left: 40px;
+    
+}
+
+.cocktail-list{
+    margin-right: 40px;
+}
+.menu-img img{
+    margin-top: 10px;
+    height:600px;
+    width: 351px;
+}
+
+
+
+.menu-button{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
